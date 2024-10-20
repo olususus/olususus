@@ -1,5 +1,6 @@
 ![image_7286071586334068001_11](https://github.com/user-attachments/assets/75a43bd1-52ed-48de-a4ab-23b9fcb8c528)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tvblhtpc8jhzt4wbwk4q93zrh&cover_image=true&theme=novatorem&show_offline=false&background_color=171717&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 If I, I get to know your name
 Well I could trace your private number, baby
