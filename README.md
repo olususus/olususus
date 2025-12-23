@@ -1,4 +1,4 @@
-Improving the unimproved.
+# Improving the unimproved.
 
 Redefining legacy systems and building what should have been built years ago.
 
@@ -13,4 +13,4 @@ Redefining legacy systems and building what should have been built years ago.
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ----
-Last Update: 23.11.25
+Last Update: 24.12.25
