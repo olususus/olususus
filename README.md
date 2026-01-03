@@ -4,7 +4,7 @@ Redefining legacy systems and building what should have been built years ago.
 
 **[sprawdzany.rocks](https://sprawdzany.rocks)**
 
-#### **Translation Team Leader** at [TruckersMP](https://truckersmp.com/user/4482426)
+#### **Former Translation Team Leader** at [TruckersMP](https://truckersmp.com/user/4482426)
 
 #### **Developer / Project Manager** at [DBus World](https://dbusworld.com/user/51917)
 
