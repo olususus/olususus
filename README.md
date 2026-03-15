@@ -9,6 +9,8 @@ Redefining legacy systems and building what should have been built years ago.
 
 #### **Developer / Project Manager** at [DBus World](https://dbusworld.com/user/51917)
 
+### **Founder / Web Developer** at [TrucklineMP](https://discord.trucklinemp.com)
+
 `Code is cheap. Impact is everything.`
 
 ### 🌐 Frontend
@@ -21,4 +23,4 @@ Redefining legacy systems and building what should have been built years ago.
 ![Docker](https://img.shields.io/badge/docker-%230F2426.svg?style=for-the-badge&logo=docker&logoColor=568C87) ![Linux](https://img.shields.io/badge/Linux-%2327594B.svg?style=for-the-badge&logo=linux&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23347361.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%231D4033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ----
-Last Update: 25.01.26
+Last Update: 15.03.26
